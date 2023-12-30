@@ -9,6 +9,7 @@ namespace WebApiNet6
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
         }
 
         

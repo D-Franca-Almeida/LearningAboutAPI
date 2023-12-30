@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34227.203
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNet6", "WebApiNet6.csproj", "{5DFD0697-55C4-4D49-92BD-86C1F33ADC75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiNet6", "WebApiNet6.csproj", "{59DCD1CA-D83B-46AB-AF85-B2242C3F4A47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5DFD0697-55C4-4D49-92BD-86C1F33ADC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5DFD0697-55C4-4D49-92BD-86C1F33ADC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5DFD0697-55C4-4D49-92BD-86C1F33ADC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5DFD0697-55C4-4D49-92BD-86C1F33ADC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DCD1CA-D83B-46AB-AF85-B2242C3F4A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DCD1CA-D83B-46AB-AF85-B2242C3F4A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DCD1CA-D83B-46AB-AF85-B2242C3F4A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DCD1CA-D83B-46AB-AF85-B2242C3F4A47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FC74A25E-672F-4C0D-A0B8-4C8E1C8DECF9}
+		SolutionGuid = {5784207A-6BC6-42F7-8831-D61CF4EC9750}
 	EndGlobalSection
 EndGlobal
